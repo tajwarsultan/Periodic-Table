@@ -1,0 +1,43 @@
+.border-none {
+    border: none
+}
+body{
+    background-color: rgba(16, 87, 97, 0.616);
+}
+h1{
+background-color: rgba(16, 87, 97, 0.616);
+text-align: center;
+text-transform: uppercase;
+line-height: 100px;
+border: rgba(16, 87, 97, 0.616);
+font-style: italic;
+font-family: Arial, Helvetica, sans-serif;
+padding-left: 75px;
+padding-right: 75px;
+border-bottom:solid black;
+
+}
+table{
+    border-top-style:none;
+    text-align: center;
+}
+.div-1{
+    align-content: center;
+    text-align: center;
+    padding-left: 150px;
+}
+.div-2{
+    align-content: center;
+    text-align: center;
+    padding-left: 150px;
+}
+.taskbar{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: initial;
+    float: left;
+    color: white;
+}
+li{
+    color: white;
+}
